@@ -1,0 +1,16 @@
+C:\Users\motyr\source\repos\Image Test Wpf\Image Test Wpf\obj\Debug\Image Test Wpf.csproj.AssemblyReference.cache
+C:\Users\motyr\source\repos\Image Test Wpf\Image Test Wpf\obj\Debug\Image Test Wpf.csproj.SuggestedBindingRedirects.cache
+C:\Users\motyr\source\repos\Image Test Wpf\Image Test Wpf\obj\Debug\MainWindow.g.cs
+C:\Users\motyr\source\repos\Image Test Wpf\Image Test Wpf\obj\Debug\App.g.cs
+C:\Users\motyr\source\repos\Image Test Wpf\Image Test Wpf\obj\Debug\Image Test Wpf_MarkupCompile.cache
+C:\Users\motyr\source\repos\Image Test Wpf\Image Test Wpf\obj\Debug\Image Test Wpf_MarkupCompile.lref
+C:\Users\motyr\source\repos\Image Test Wpf\Image Test Wpf\bin\Debug\Image Test Wpf.exe.config
+C:\Users\motyr\source\repos\Image Test Wpf\Image Test Wpf\bin\Debug\Image Test Wpf.exe
+C:\Users\motyr\source\repos\Image Test Wpf\Image Test Wpf\bin\Debug\Image Test Wpf.pdb
+C:\Users\motyr\source\repos\Image Test Wpf\Image Test Wpf\obj\Debug\MainWindow.baml
+C:\Users\motyr\source\repos\Image Test Wpf\Image Test Wpf\obj\Debug\Image Test Wpf.g.resources
+C:\Users\motyr\source\repos\Image Test Wpf\Image Test Wpf\obj\Debug\Image_Test_Wpf.Properties.Resources.resources
+C:\Users\motyr\source\repos\Image Test Wpf\Image Test Wpf\obj\Debug\Image Test Wpf.csproj.GenerateResource.cache
+C:\Users\motyr\source\repos\Image Test Wpf\Image Test Wpf\obj\Debug\Image Test Wpf.csproj.CoreCompileInputs.cache
+C:\Users\motyr\source\repos\Image Test Wpf\Image Test Wpf\obj\Debug\Image Test Wpf.exe
+C:\Users\motyr\source\repos\Image Test Wpf\Image Test Wpf\obj\Debug\Image Test Wpf.pdb
